@@ -33,3 +33,11 @@ variable "ec2_specs" {
   description = "Parametros de la instancia"
   type = map(string)
 }
+
+variable "access_key" {
+  
+}
+
+variable "secret_key" {
+  
+}
