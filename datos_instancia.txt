@@ -1,0 +1,15 @@
+instancia creada con IP: 35.180.207.255 
+instancia con IP: 35.180.207.255 destruida.  
+instancia creada con IP: 15.236.186.10  
+instancia con IP: 15.236.186.10 destruida.  
+instancia creada con IP: 51.44.210.143  
+instancia con IP: 51.44.210.143 destruida.  
+instancia creada con IP: 51.44.184.7  
+instancia con IP: 51.44.184.7 destruida.  
+instancia creada con IP: 15.188.85.136  
+instancia con IP: 15.188.85.136 destruida.  
+instancia creada con IP: 13.38.17.56  
+instancia con IP: 13.38.17.56 destruida.  
+instancia creada con IP: 51.44.244.243  
+instancia con IP: 51.44.244.243 destruida.  
+instancia creada con IP: 13.36.194.252  
